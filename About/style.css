@@ -1,0 +1,34 @@
+body{
+    background-image: url(pexels-velroy-4048413.jpg);
+    background-size: cover;
+}
+.navbar li a{
+    color: white;
+}
+.navbar a:hover{
+    color: #89a831;
+}
+.search-button{
+    border: #89a831 1px solid; color: #89a831;
+}
+.search-button:hover{
+    border: white 1px solid; color: white;
+}
+.dropdown-menu li a{
+    color: black;
+}
+.dropdown-menu a:hover{
+    color: #89a831;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+    }
+    .footer a:hover{
+        color: #89a831;
+    }
+    .footer-img{
+        position: relative;
+        top: -45%;
+    }
+    

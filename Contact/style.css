@@ -1,0 +1,62 @@
+body{
+    background-image: url(pexels-velroy-4048413.jpg);
+    background-size: cover;
+}
+.navbar li a{
+    color: white;
+}
+.navbar a:hover{
+    color: #89a831;
+}
+.search-button{
+    border: #89a831 1px solid; color: #89a831;
+}
+.search-button:hover{
+    border: white 1px solid; color: white;
+}
+.dropdown-menu li a{
+    color: black;
+}
+.dropdown-menu a:hover{
+    color: #89a831;
+}
+
+.contact-info h2,p:hover{
+    color: #89a831;
+}
+.form-label{
+    color: #89a831;
+}
+.btn{
+    border: #89a831 1px solid; color: #89a831;
+}
+.btn:hover{
+    border: white 1px solid; color: white;
+}
+.iframe-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+  }
+  .responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .footer a{
+    color: white;
+    text-decoration: none;
+    }
+    .footer a:hover{
+        color: #89a831;
+    }
+    .footer-img{
+        position: relative;
+        top: -45%;
+    }
+    

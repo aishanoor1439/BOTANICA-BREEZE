@@ -1,0 +1,55 @@
+body{
+    background-image: url(pexels-velroy-4048413.jpg);
+    background-size: cover;
+}
+.navbar li a{
+    color: white;
+}
+.navbar a:hover{
+    color: #89a831;
+}
+.search-button{
+    border: #89a831 1px solid; color: #89a831;
+}
+.search-button:hover{
+    border: white 1px solid; color: white;
+}
+.dropdown-menu li a{
+    color: black;
+}
+.dropdown-menu a:hover{
+    color: #89a831;
+}
+.form-label{
+    color: #89a831;
+}
+.btn{
+    border: #89a831 1px solid; color: #89a831;
+}
+.btn:hover{
+    border: white 1px solid; color: white;
+}
+#google{
+    background-color: white;
+    border: 1px black solid;
+    border-radius: 8%;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#google span{
+    font-family:Arial, Helvetica, sans-serif  ;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+    }
+    .footer a:hover{
+        color: #89a831;
+    }
+    .footer-img{
+        position: relative;
+        top: -45%;
+    }
+    
